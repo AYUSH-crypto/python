@@ -1,1 +1,5 @@
-https://docs.google.com/spreadsheets/d/1vfG856xu6CHdTI5bX_FBfDcTI_AeWAAQeeah5KfedQc/edit?usp=sharing
+
+Python Projects Repository
+
+Welcome to my Python Programs Repository!
+This repository contains a collection of Python programs ranging from beginner-level scripts to object-oriented projects. It is designed for learning, practice, and reference.
