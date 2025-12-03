@@ -1,0 +1,5 @@
+t1 = (1, 2) 
+t2 = (3, 4) 
+print("Concatenated tuple:", t1 + t2) 
+print("Repeated tuple:", t1 * 3) 
+print("Is 2 in t1?", 2 in t1) 
